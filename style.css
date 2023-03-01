@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+    font-size: 18px;
+}
+
+h2 {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.primary {
+    border: 5px solid;
+    text-align: center;
+    color: blueviolet;
+}
+.Pictures {
+    border: 4px solid;
+    text-align: center;
+    color: black; 
+}
+
+.pp {
+    height: 50px;
+    width: 50px;
+}
+.opinion {
+    font-size: 30px;
+    color: darkmagenta;
+    text-align: left;
+}
+.auto 
+{cursor: crosshair;}
